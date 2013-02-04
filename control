@@ -1,0 +1,14 @@
+Package: com.rpetrich.respringcachefix
+Section: Tweaks
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Architecture: iphoneos-arm
+Version: 0.1
+Depends: firmware (>= 6.1), mobilesubstrate
+Description: Cleanup junk temporary files that are dropped every respring
+Name: RespringCacheFix
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=respringCacheFixData
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=respringCacheFixData
+Author: Ryan Petrich <rpetrich@gmail.com>
+Sponsor: thebigboss.org <http://thebigboss.org>
+dev: rpetrich
+Tag: purpose::extension
